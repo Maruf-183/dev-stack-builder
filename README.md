@@ -19,16 +19,12 @@ A responsive React app where developers explore popular frontend, backend, datab
 ## Getting Started
 
 ```bash
-git clone https://github.com/tomar-username/dev-stack-builder.git
+git clone https://github.com/Maruf-183/dev-stack-builder.git
 cd dev-stack-builder
 npm install
 npm run dev
 ```
 
-Add your image assets to `src/assets/` before running the app:
-
-- `src/assets/logo-text.png`
-- `src/assets/banner-stack.png`
 
 ## React Concepts - Q&A
 
